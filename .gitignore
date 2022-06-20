@@ -1,0 +1,9 @@
+*.class
+.settings/*
+.idea/*
+*.iml
+/bin/
+bin/*
+bin/application.properties
+.classpath
+.project
